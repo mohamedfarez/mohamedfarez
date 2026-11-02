@@ -1,7 +1,7 @@
 <h1>Mohamed Fares</h1>
  
 **AI Engineer · LLMs & Applied ML for Industry**
-M.Eng. Applied AI @ TH Deggendorf · Working Student @ Schneider Electric · Regensburg, Germany
+M.Eng. Applied AI @ TH Deggendorf  · Regensburg, Germany
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedfarez)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamedhfares5@gmail.com)
